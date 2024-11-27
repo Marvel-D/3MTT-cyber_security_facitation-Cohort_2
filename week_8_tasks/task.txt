@@ -1,0 +1,3 @@
+note: fir another capstone project build a website to serve as the file transfer medium
+
+A network security model in computer networks refers to the structured defensive mechanisms and protocols implemented to protect the confidentiality, integrity and availability of data transmitted between devices over an interconnected system of networks.
